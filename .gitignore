@@ -1,0 +1,8 @@
+# Compiled Java bytecode
+*.class
+
+# macOS system files
+.DS_Store
+
+# Runtime logs
+task_log.txt
